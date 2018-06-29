@@ -1,0 +1,61 @@
+/* esnipe.css - load after spectre styles */
+		
+p { line-height: 1.4em; font-size: 2rem;}
+h1, h2, h3, h4 { font-weight: 700; font-size: 3em; line-height: 1em; }
+h1 { font-size: 3em; }
+h2 { font-size: 2.5em; }
+h5, h6 { margin-bottom: 0; }
+h5 { font-size: 1.2em; }
+h6 { font-size: 1em; }
+
+
+/* Hanging indent */		
+ul.features { 
+	font-size: 2rem;
+	font-weight: 500;
+	list-style-type: none; /* Remove native bullet */
+	margin-left: 2em; /* Moves the bullet inward */
+}
+
+ul.features > li:before { 
+	content: '\2713';  /* Character used for bullet (checkmark) */        
+	color: #228811; 
+	float: left;
+	font-weight: 700;
+	margin: .1em -1.2em; /* First one moved the bullet vertically; 2nd is space between bullet and first character */
+}		
+
+/* This div expands to occupy the whole web page */
+.fill-page {
+	height: 100vh;
+}		
+
+
+/* First panel under the nav bar. */
+/* This one is charcoal on light gray. */
+.contrast-panel { 
+	background-color: #EDEDED; 
+	color: #424242; 
+}
+.logo-bg { font-weight: 700; background-color:  white; color: #353A8C;}
+.navbar { 
+	font-size: 1.5em;
+	padding: 1em 0 1em 1em; 			
+}
+
+/* http://htmldog.com/techniques/underlines/ */
+.underlined { 
+	background: url("/v2/shared/images/green-underline.svg") bottom left no-repeat;
+	background-size: 200% .75em;
+	padding-bottom: .3em;
+}
+
+/* Align element vertically, duh */	
+.v-align {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+		
+
+
