@@ -1,0 +1,12 @@
+Colors:
+Charcoal text: #424242;
+Dark blue text used on eSnipe logo in navbar: #363A87: 
+Medium blue text used on top nav: #5964C0;
+#363A87;
+Green used in checkmarks: #228811;
+Light gray background: #EDEDED;
+
+
+Image credits
+celebrate-esnipe.svg: undraw.co/illustrations
+
