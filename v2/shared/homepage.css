@@ -1,0 +1,117 @@
+/* Style overrides for home page and pages based on its template */
+.form-group label {font-size: 2rem;}
+h3 {
+font-size: 2em;
+}
+
+.navbar { font-size: 2em; padding: 1rem 0 1rem;}
+header .navbar {
+font-size: 2em;
+}
+
+.navbar .btn {
+font-size: 2rem;
+}
+
+.logo-bg {
+margin-left: 2rem;
+}
+.reviews-header {
+font-size: 3em;
+margin-top: 2em;
+}
+.pricing-header {
+font-size: 3em;
+margin-top: 2em;
+text-align: center;
+color: #363A87;
+}
+
+blockquote p .strong {
+font-weight: 700;
+color: white;
+color: #47488E;
+background-color: #47488E;
+background-color: #EDEDED;
+padding-left: .5rem;
+padding-right: .5rem;
+}
+blockquote p { 
+color: #474893;
+font-style: normal;
+}
+
+blockquote {
+color: #616161;
+font-family: sans-serif;
+font-size: 2rem;
+font-style: italic;
+line-height: 1.45;
+margin: 0.25rem 0;
+padding: 0.25rem 6rem;
+position: relative;
+quotes: "\201C" "\201D";
+margin: 0 auto;
+}
+blockquote:before, blockquote:after {
+color: #7A7A7A;
+display: block;
+font-size: 4em;
+position: absolute;
+}
+blockquote:before {
+content: open-quote;
+left: 0;
+top: -1.5rem;
+}
+/*
+blockquote:after {
+bottom: -3rem;
+content: close-quote;
+right: 0;
+}
+*/
+blockquote cite {
+color: #999999;
+color: #228811;
+
+font-size: 2rem;
+display: block;
+margin-top: 1rem;
+}
+blockquote cite:before {
+content: "\2014 \2009";
+}
+blockquote a:link {
+    color: #616161;
+    color: #228811;
+    text-decoration: underline;
+}
+
+/* TEXT OVERLAY FOR IMAGES */
+div.wrapper {
+    float:left; /* important */
+    position:relative; /* important(so we can absolutely position the description div */
+}
+div.description{
+    position:absolute; /* absolute position (so we can position it where we want)*/
+    bottom:0px; /* position will be on bottom */
+    left:0px;
+    width:100%;
+    /* styling below */
+    background-color:black;
+    color:white;
+    opacity:0.6; /* transparency */
+    filter:alpha(opacity=60); /* IE transparency */
+}
+p.description_content{
+    padding:10px;
+    margin:0px;
+    font-size: 30px;
+}		
+
+td { font-size: 2rem; }
+.text-small { font-size: .75em; }
+
+
+
