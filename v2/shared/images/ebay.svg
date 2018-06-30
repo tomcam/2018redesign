@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="e8345542-4160-463b-841e-d6381701a249"
+   data-name="Layer 1"
+   width="1014.92"
+   height="616.5"
+   viewBox="0 0 1014.92 616.5"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ebay.svg">
+  <metadata
+     id="metadata3540">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>windows</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1546"
+     inkscape:window-height="1159"
+     id="namedview3538"
+     showgrid="false"
+     inkscape:zoom="1.7420189"
+     inkscape:cx="-735.3593"
+     inkscape:cy="1487.2255"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="e8345542-4160-463b-841e-d6381701a249" />
+  <defs
+     id="defs3459">
+    <linearGradient
+       id="linearGradient5815"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1;"
+         offset="0"
+         id="stop5817" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4361"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop4363" />
+    </linearGradient>
+    <linearGradient
+       id="b96c1e95-21f7-460f-8fe8-281b03b6a731"
+       x1="223"
+       y1="366.33"
+       x2="223"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="gray"
+         stop-opacity="0.25"
+         id="stop3462" />
+      <stop
+         offset="0.54"
+         stop-color="gray"
+         stop-opacity="0.12"
+         id="stop3464" />
+      <stop
+         offset="1"
+         stop-color="gray"
+         stop-opacity="0.1"
+         id="stop3466" />
+    </linearGradient>
+    <linearGradient
+       id="fdf2261c-aea2-449f-acb5-ed46fbfe76ac"
+       x1="315"
+       y1="481.74"
+       x2="315"
+       y2="115.42"
+       gradientTransform="matrix(-1, 0, 0, 1, 1106.92, -115.42)"
+       xlink:href="#b96c1e95-21f7-460f-8fe8-281b03b6a731" />
+    <linearGradient
+       id="bdb7606e-5185-43e5-b133-41bac9927d37"
+       x1="508"
+       y1="616.5"
+       x2="508"
+       y2="159.83"
+       xlink:href="#b96c1e95-21f7-460f-8fe8-281b03b6a731" />
+  </defs>
+  <title
+     id="title3470">windows</title>
+  <rect
+     x="138.56035"
+     y="883.07538"
+     width="89.199997"
+     height="15.59"
+     transform="scale(-1,-1)"
+     id="rect3514"
+     style="fill:#e0e0e0" />
+  <g
+     id="g3516"
+     transform="translate(-1271.9562,-1312.1254)"
+     style="opacity:0.5">
+    <rect
+       x="230"
+       y="159.83"
+       width="556"
+       height="456.67999"
+       id="rect3518"
+       style="fill:url(#bdb7606e-5185-43e5-b133-41bac9927d37)" />
+  </g>
+  <rect
+     x="-1035.6846"
+     y="-1143.3051"
+     width="541.96997"
+     height="440.48001"
+     id="rect3520"
+     style="fill:#ffffff" />
+  <rect
+     x="-1033.9076"
+     y="-1140.1388"
+     width="537.5943"
+     height="21.499723"
+     id="rect3524"
+     style="fill:#f9f9f9;fill-opacity:1;stroke:#925252;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+  <rect
+     x="-1021.7809"
+     y="-1053.6848"
+     width="143.65866"
+     height="172.12639"
+     id="rect3526"
+     style="fill:#e0e0e0" />
+  <rect
+     style="fill:#f9f9f9;fill-opacity:1;stroke:#e5e5e5;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+     id="rect4377"
+     width="4.0183263"
+     height="3.4442794"
+     x="-469.57013"
+     y="-1062.0122" />
+</svg>
